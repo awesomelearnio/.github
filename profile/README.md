@@ -1,12 +1,3 @@
 ## Hi there 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**CraftNotes** is an open source collection of structured learning paths and curated study guides for developers, creators, and lifelong learners. Each repository breaks down a single subject into a clear, step-by-step progression — combining essential concepts, practical takeaways, and vetted resources without the noise.
